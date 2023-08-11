@@ -4,4 +4,4 @@
 
 ## Clonee nomas
 
-```bash git clone https://github.com/MrPantuflas/Proyectokinect```
+```git clone https://github.com/MrPantuflas/Proyectokinect```
