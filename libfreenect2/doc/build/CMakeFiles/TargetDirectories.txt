@@ -1,0 +1,3 @@
+/home/gabriel/Proyectos/Kinect/libfreenect2/doc/build/CMakeFiles/doc.dir
+/home/gabriel/Proyectos/Kinect/libfreenect2/doc/build/CMakeFiles/edit_cache.dir
+/home/gabriel/Proyectos/Kinect/libfreenect2/doc/build/CMakeFiles/rebuild_cache.dir
