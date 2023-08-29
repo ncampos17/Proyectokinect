@@ -41,12 +41,11 @@ src/opencl_kde_depth_packet_processor.cpp:280
 ```
 Esto hara que pueda compilar con OpenCL (Por lo menos en arch)
 
-Asignar una ip y puerto como string, al igual que la calidad del encodeo como int en:
+Asignar una ip y puerto en el archivo config.h:
 ``` bash
-tools/streamer_recorder/streamer.cpp:36
-tools/streamer_recorder/streamer.cpp:37
-tools/streamer_recorder/streamer.cpp:34
-#Respectivamente
+tools/streamer_recorder/include/config.h
+define SERVER_ADDRESS "127.0.0.1" // Server IP adress
+define SERVER_PORT "10000"    
 ```
 
 Finalmente se pueden seguir las instrucciones oficiales de libfreenect2 para poder compilar y usar.
