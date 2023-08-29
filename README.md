@@ -32,7 +32,7 @@ tools/streamer_recorder/recorder.cpp:81
 ```
 Esto actualizara la compatibilidad del ProtonectSR a OpenCV 4
 
-Reemplazar ``CL_ICDL_VERSION`` a ``CL_ICDL_VERSION`` en:
+Reemplazar ``CL_ICDL_VERSION`` a ``CL_ICDL_VER`` en:
 ``` bash
 src/opencl_depth_packet_processor.cpp:254
 src/opencl_depth_packet_processor.cpp:272
